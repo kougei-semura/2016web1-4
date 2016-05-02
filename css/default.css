@@ -31,7 +31,7 @@ p{
  :
 }
 
-p::first-letter{
+p:first-letter{
   font-size: 3em;
 }
 
