@@ -12,9 +12,7 @@ h1{
  text-align:center;
  background-color:#fa8072;
 }
-h1 span{
- color:#d0e35b;
-}
+
 
 h2{
  font-size:1.25em;
@@ -30,6 +28,10 @@ p{
  background-color:#48d1cc;
  color:333333;
  :
+}
+
+p span{
+ color:#d0e35b;
 }
 
 p:first-letter{
