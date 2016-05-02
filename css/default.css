@@ -26,20 +26,21 @@ h2{
 
 p{
  font-size:0.8em;
- font-style: italic;
- font-weight: bold;
- text-decoration: underline;
  background-color:#3399cc;
  color:333333;
- line-height: 1.75em;
+ :
+}
+
+p:first-letter{
+  font-size: 3em;
 }
 
 #lead{
- border-top:#b22222 1px dotted;
- text-align: center;
+ border-top:#6fbb9a 1px dotted;
+ text-align: right;
 }
 
 .greeting{
- border-top:#00ff00 1px dotted;
+ border-top:#6fbb9a 1px dotted;
  text-align: center;
 }
