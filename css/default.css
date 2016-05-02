@@ -31,12 +31,16 @@ p{
  :
 }
 
+p::first-letter{
+  font-size: 3em;
+}
+
 #lead{
  border-top:#6fbb9a 1px dotted;
- text-align: center;
+ text-align: right;
 }
 
 .greeting{
  border-top:#6fbb9a 1px dotted;
- text-align;center;
+ text-align: center;
 }
