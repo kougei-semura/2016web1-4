@@ -17,7 +17,7 @@ h1{
 h2{
  font-size:1.25em;
  color:#ffffff;
- border:#94c8b1 1px dotted;
+ border:#94c8b1 3px dotted;
  border-left:#d0e35b 10px solid;
  margin-bottom: 0;
  padding: 5px 20px;
@@ -39,13 +39,13 @@ p:first-letter{
 }
 
 #lead{
- border-top:#6fbb9a 1px dotted;
+ border-top:#6fbb9a 3px dotted;
  text-align: right;
  background-color:#20b2aa;
 }
 
 .greeting{
- border-top:#6fbb9a 1px dotted;
+ border-top:#6fbb9a 3px dotted;
  text-align: center;
  background-color:#5f9ea0;
 }
