@@ -27,6 +27,9 @@ p{
  font-size:0.8em;
  background-color:#48d1cc;
  color:333333;
+ border-left:#d0e35b 10px solid;
+ margin-bottom: 0;
+ padding: 5px 20px;
  :
 }
 
@@ -42,10 +45,16 @@ p:first-letter{
  border-top:#6fbb9a 3px dotted;
  text-align: right;
  background-color:#20b2aa;
+ border-left:#d0e35b 10px solid;
+ margin-bottom: 0;
+ padding: 5px 20px;
 }
 
 .greeting{
  border-top:#6fbb9a 3px dotted;
  text-align: center;
  background-color:#5f9ea0;
+ border-left:#d0e35b 10px solid;
+ margin-bottom: 0;
+ padding: 5px 20px;
 }
